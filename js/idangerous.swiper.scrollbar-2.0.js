@@ -1,16 +1,3 @@
-/*
- * Swiper Scrollbar 2.0
- * Plugin for Swiper 2.0+
- * http://www.idangero.us/sliders/swiper/
- *
- * Copyright 2012-2013, Vladimir Kharlampidi
- * The iDangero.us
- * http://www.idangero.us/
- *
- * Licensed under GPL & MIT
- *
- * Released on: June 9, 2013
-*/
 
 Swiper.prototype.plugins.scrollbar = function(swiper, params){
 	
